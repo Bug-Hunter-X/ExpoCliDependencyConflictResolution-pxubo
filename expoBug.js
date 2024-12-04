@@ -1,0 +1,1 @@
+This error typically occurs when you're using an older version of Expo CLI or have conflicting dependencies in your project.  The exact error message might vary slightly, but it often points towards problems with the underlying React Native environment or Expo modules.
